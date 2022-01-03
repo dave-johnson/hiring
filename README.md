@@ -1,5 +1,6 @@
 The Hiring proect is to help keep track of candidates state in the hiring process.
 
+This document uses [Mermaid](https://mermaid-js.github.io/mermaid/#/) for diagrams.    You should add the [Chrome extension](https://chrome.google.com/webstore/detail/github-%20-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe?hl=en) to view the graph in the browser. 
 
 ```mermaid
 erDiagram
